@@ -1,0 +1,10 @@
+# NAME: ToDesk
+# AUTHOR: tianbocheng
+# REPO: https://github.com/tianbocheng/cdn
+# UPDATED: 2024-05-15 02:15:45
+# HOST: 1
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 1
+# TOTAL: 2
+HOST,todesk.com,ToDesk
+HOST-SUFFIX,todesk.com,ToDesk

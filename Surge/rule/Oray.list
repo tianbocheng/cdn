@@ -1,0 +1,13 @@
+# NAME: Oray
+# AUTHOR: tianbocheng
+# REPO: https://github.com/tianbocheng/cdn
+# UPDATED: 2024-05-15 02:15:45
+# HOST: 1
+# HOST-KEYWORD: 0
+# HOST-SUFFIX: 1
+# TOTAL: 2
+HOST,oray.net,Oray
+HOST-SUFFIX,oray.net,Oray
+HOST-SUFFIX,oray.com,Oray
+HOST-SUFFIX,sunlogin.net,Oray
+HOST-KEYWORD,oray,Oray

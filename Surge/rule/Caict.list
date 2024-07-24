@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,sunlogin.net
+IP-CIDR,59.110.237.0/24

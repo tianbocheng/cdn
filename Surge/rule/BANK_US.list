@@ -1,6 +1,7 @@
 # NAME: HSBC
 # AUTHOR: tianbocheng
 DOMAIN-SUFFIX,hsbc.com.us
+DOMAIN-SUFFIX,us.hsbc.com
 DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com

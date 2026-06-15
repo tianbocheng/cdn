@@ -1,4 +1,4 @@
-# NAME: ToDesk
+# NAME: Lantian
 # AUTHOR: tianbocheng
 # REPO: https://github.com/tianbocheng/cdn
 # UPDATED: 2024-05-15 02:15:45
@@ -6,8 +6,7 @@
 # HOST-KEYWORD: 0
 # HOST-SUFFIX: 1
 # TOTAL: 2
-DOMAIN-SUFFIX,ndilab.cn
-DOMAIN-SUFFIX,idx.space
-DOMAIN-SUFFIX,teleinfo.cn
-DOMAIN-SUFFIX,caict.ac.cn
-IP-CIDR,139.198.0.0/16
+
+DOMAIN-SUFFIX,tianbocheng.site
+DOMAIN-SUFFIX,lantian2019.cn
+DOMAIN-SUFFIX,quickconnect.cn

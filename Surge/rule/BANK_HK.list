@@ -1,13 +1,19 @@
 # NAME: HSBC
 # AUTHOR: tianbocheng
+
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,moneyback.com.hk
 DOMAIN-SUFFIX,etnet.com.hk
+DOMAIN-SUFFIX,online-metrix.net
+
 DOMAIN-SUFFIX,bochk.com
+
 DOMAIN-SUFFIX,zaticdn.com
 DOMAIN-SUFFIX,zafinsvc.com
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,zainvest.group
+
 DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,lbctrl.com

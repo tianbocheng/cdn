@@ -2,8 +2,12 @@
 # AUTHOR: tianbocheng
 # REPO: https://github.com/tianbocheng/cdn
 # UPDATED: 2024-05-15 02:15:45
-# HOST: 1
+# HOST: 0
 # HOST-KEYWORD: 0
-# HOST-SUFFIX: 1
+# HOST-SUFFIX: 0
 # TOTAL: 2
-IP-CIDR,139.198.0.0/16
+
+# 青云中国大陆公有云
+IP-ASN,59078,青云线路
+# 青云香港及部分海外资源
+IP-ASN,134366,青云线路
